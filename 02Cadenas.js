@@ -36,7 +36,7 @@ x = 2 + 4 + nombre;
 // Dando como resultado "6Juan"
 console.log(x);
 
-// En js siempre las expreciones las vera de izquierda a derecha
+// En js siempre las expresiones las vera de izquierda a derecha
 // ------> es por eso que pasan aquellos sucesos
 
 /* 
